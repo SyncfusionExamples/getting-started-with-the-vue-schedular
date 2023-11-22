@@ -51,7 +51,7 @@ Easily configure each individual view mode with different calendar settings. For
 ## Related links
 [Learn More about Vue Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
 
