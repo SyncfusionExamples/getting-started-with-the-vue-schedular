@@ -2,10 +2,6 @@
 
 The Vue [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples), or event calendar, is a fully featured event calendar component that helps users manage their time efficiently. A quick start project that shows how to add Syncfusion's Vue Scheduler component to the Vue project. This project also includes a code snippet to add appointments to the Scheduler either as local JSON data or remote service URLs, and also to change the default date and view.
 
-Example: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/default.html
-
-Documentation: https://ej2.syncfusion.com/vue/documentation/schedule/getting-started 
-
 ## Project pre-requisites
 
 Make sure that you have the compatible versions of Node and Vue-Cli in your machine before starting to work on this project.
@@ -68,8 +64,6 @@ Easily configure each individual view mode with different calendar settings. For
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
-
-[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-scheduler-github-samples)
 
 ## About Syncfusion Vue Components
 
